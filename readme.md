@@ -58,8 +58,8 @@ Required Documents For Lab-3:
 The fourth lab will discuss building high-fidelity prototypes in Figma. In this lab we learn how to bring prototypes to life by adding interactivity, simulating the experience of the finished application.
 
 Required Docuemnts for Lab-4:
--[Hifi pdf version](https://github.com/Rayansh-Chowatia/ENSE_271_spring/blob/main/Lab-4-Hi-Fi-Prototype/Lab-4_Hifi_Prototype-compressed.pdf)
--[Hifi figma version](https://github.com/Rayansh-Chowatia/ENSE_271_spring/blob/main/Lab-4-Hi-Fi-Prototype/Lab-4_Hifi_Prototype%20.fig)
+- [Hifi pdf version](https://github.com/Rayansh-Chowatia/ENSE_271_spring/blob/main/Lab-4-Hi-Fi-Prototype/Lab-4_Hifi_Prototype-compressed.pdf)
+- [Hifi figma version](https://github.com/Rayansh-Chowatia/ENSE_271_spring/blob/main/Lab-4-Hi-Fi-Prototype/Lab-4_Hifi_Prototype%20.fig)
 
 ---
 
