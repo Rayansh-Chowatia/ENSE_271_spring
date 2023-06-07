@@ -3,13 +3,13 @@
 |  **Table Of Contents**       | 
 | -------------  |
 | *[Summary](#summary)*     |
-| *[Lab #1 Summary](#lab #1 summary)* |
-| *[Lab #2 Summary](#lab #2 summary)* |
-| *[Lab #3 Summary](#lab #3 summary)* |
-| *[Lab #4 Summary](#lab #4 summary)* |
-| *[Lab #5 Summary](#lab #5 summary)* |
-| *[Lab #6 Summary](#lab #6 summary)* |
-| *[Lab #7 Summary](#lab #7 summary)* |
+| *[Lab #1 Summary](#lab-1-summary)* |
+| *[Lab #2 Summary](#lab-2-summary)* |
+| *[Lab #3 Summary](#lab-3-summary)* |
+| *[Lab #4 Summary](#lab-4-summary)* |
+| *[Lab #5 Summary](#lab-5-summary)* |
+| *[Lab #6 Summary](#lab-6-summary)* |
+| *[Lab #7 Summary](#lab-7-summary)* |
 ---
 ## **Summary**
 
