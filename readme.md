@@ -2,7 +2,14 @@
 
 |  **Table Of Contents**       | 
 | -------------  |
-| *[Summary](#summary)*     |
+| *[Summary](#Summary)*     |
+| *[Lab-1 Summary](#Lab-1 Summary)* |
+| *[Lab-2 Summary](#Lab-2 Summary)* |
+| *[Lab-3 Summary](#Lab-3 Summary)* |
+| *[Lab-4 Summary](#Lab-4 Summary)* |
+| *[Lab-5 Summary](#Lab-5 Summary)* |
+| *[Lab-6 Summary](#Lab-6 Summary)* |
+| *[Lab-7 Summary](#Lab-7 Summary)* |
 ---
 ## **Summary**
 
@@ -43,6 +50,9 @@ Setting up Wordpress can be a difficult task, so the fifth lab deals with settin
 ## **Lab-6 Summary**
 
 The sixth lab contributes the use of Wordpress, finding and applying themes, and provide a gentle introduction to customizing and modifying themes.
+
+## **Lab-7 Summary88**
+Seventh lab concluded with a lab interview.
 
 
 
